@@ -1,0 +1,1 @@
+<div class="not_found">Halaman yang anda cari tidak ditemukan! Silahkan balik ke home :-)</div>
